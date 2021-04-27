@@ -6,7 +6,6 @@ xgboost
 python-dotenv
 requests
 json
-pickle
 Click
 Flask
 gunicorn
@@ -14,3 +13,5 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
+pickle
+

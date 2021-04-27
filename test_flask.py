@@ -13,3 +13,6 @@ for pred in data:
   print(f'Based on the data provided, this cell phone is {"{:.0%}".format(pred[1])} likely to be running malware')
 
 # print('Good day to you. The predictions for the data are: ', data)
+
+print('Good day to you. The predictions for the data are: ', data)
+
