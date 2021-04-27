@@ -2,3 +2,8 @@ sklearn
 pandas
 jupyterlab
 numpy
+xgboost
+python-dotenv
+requests
+json
+pickle
